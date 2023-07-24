@@ -1,0 +1,50 @@
+commit 181e5d59b8b8af2e6eaa6248aec6a0e31bbb6c7f
+Author: Fernandes <gislaif@amazon.com>
+Date:   Mon Jul 24 14:05:52 2023 +0100
+
+    pra sempre amem
+
+diff --git a/chorus2.txt b/chorus2.txt
+new file mode 100644
+index 0000000..e69de29
+
+commit 55870daf6aa70bf39b81d24130844f0edd8f79ff
+Author: Fernandes <gislaif@amazon.com>
+Date:   Mon Jul 24 14:05:07 2023 +0100
+
+     a Ele a gloria
+
+diff --git a/chorus1.txt b/chorus1.txt
+new file mode 100644
+index 0000000..e69de29
+
+commit eea9cf83543bc9d4dab7acfd68130fae8bd2a00c
+Author: Fernandes <gislaif@amazon.com>
+Date:   Mon Jul 24 14:03:05 2023 +0100
+
+    A ele a gloria, e ele a Gloria pra sempre amem
+
+diff --git a/verse2.txt b/verse2.txt
+new file mode 100644
+index 0000000..e69de29
+
+commit 33a2984d1cae0c410a9bc5e933571c397cd9752e
+Author: Fernandes <gislaif@amazon.com>
+Date:   Mon Jul 24 14:02:33 2023 +0100
+
+    Porque Dele e por Ele
+
+diff --git a/verse1.txt b/verse1.txt
+new file mode 100644
+index 0000000..e69de29
+
+commit a647412bbfe850efa3ef88387fed60a5f4a515a7
+Author: Fernandes <gislaif@amazon.com>
+Date:   Mon Jul 24 13:50:50 2023 +0100
+
+    Porque Dele e por Ele
+    Para Ele são todas as coisas
+
+diff --git a/song.txt b/song.txt
+new file mode 100644
+index 0000000..e69de29
